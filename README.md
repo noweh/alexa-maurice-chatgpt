@@ -14,7 +14,7 @@ Source code of a Alexa's skill using ChatGPT API.
 
 ## Prerequisite
 
-For the skill to work, you need to [generate](https://beta.openai.com/account/api-keys) an OpenAI API key and replace it in the file [/index.php](/index.php).
+For the skill to work, you need to [generate](https://beta.openai.com/account/api-keys) an OpenAI API key and replace it in the file [/alexa-skill/index.php](/alexa-skill/index.php).
 
 ---
 
