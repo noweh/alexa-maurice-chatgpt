@@ -8,7 +8,7 @@
 ![OpenAI ChatGPT](https://img.shields.io/static/v1?style=flat-square&message=OpenAI&nbsp;ChatGPT&color=412991&logo=OpenAI&logoColor=FFFFFF&label=)
 [![MIT Licensed](https://img.shields.io/github/license/noweh/alexa-maurice-chatgpt)](LICENSE)
 
-Source code of a Alexa's skill using ChatGPT API.
+Source code of an Alexa's skill using ChatGPT API.
 
 :warning: This skill is still in development because there are still some issues to validate.
 
