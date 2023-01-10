@@ -1,0 +1,45 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "assistant maurice",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "ChatGPTIntent",
+          "slots": [
+            {
+              "name": "keyword",
+              "type": "AMAZON.SearchQuery"
+            }
+          ],
+          "samples": [
+            "maurice {keyword}",
+            "à ton avis maurice {keyword}",
+            "salut maurice {keyword}",
+            "hey maurice {keyword}",
+            "maurice peux tu me dire {keyword}",
+            "dis jarvis {keyword}",
+            " dis moi jarvis {keyword}"
+          ]
+        }
+      ],
+      "types": []
+    }
+  },
+  "version": "15"
+}

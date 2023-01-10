@@ -1,0 +1,116 @@
+{
+  "manifest": {
+    "publishingInformation": {
+      "locales": {
+        "fr-FR": {
+          "summary": "Profiter de ChatGPT depuis votre Borne Alexa grâce à l\u0027assitant Maurice",
+          "examplePhrases": [
+            "Alexa lance assistant Maurice",
+            "Dis Maurice qu\u0027est ce que le Javascript ?",
+            "Hey Maurice donne moi des exemples de tweets polémiques auprès des développeurs"
+          ],
+          "keywords": [
+            "chatGPT",
+            "IA",
+            "conversation"
+          ],
+          "name": "Maurice ChatGPT",
+          "description": "Avec cette Skill, vous pouvez dès maintenant profiter de tout ChatGPT grâce à votre voix depuis l\u0027assistant Maurice",
+          "smallIconUri": "file://assets/images/fr-FR_smallIconUri.png",
+          "largeIconUri": "file://assets/images/fr-FR_largeIconUri.png"
+        },
+        "fr-CA": {
+          "summary": "Profiter de ChatGPT depuis votre Borne Alexa grâce à l\u0027assitant Maurice",
+          "examplePhrases": [
+            "Alexa lance assistant Maurice",
+            "Dis Maurice qu\u0027est ce que le Javascript ?",
+            "Hey Maurice donne moi des exemples de tweets polémiques auprès des développeurs"
+          ],
+          "keywords": [
+            "chatGPT",
+            "IA",
+            "conversation"
+          ],
+          "name": "Maurice ChatGPT",
+          "description": "Avec cette Skill, vous pouvez dès maintenant profiter de tout ChatGPT grâce à votre voix depuis l\u0027assistant Maurice",
+          "smallIconUri": "file://assets/images/fr-CA_smallIconUri.png",
+          "largeIconUri": "file://assets/images/fr-CA_largeIconUri.png"
+        }
+      },
+      "automaticDistribution": {
+        "isActive": false
+      },
+      "isAvailableWorldwide": false,
+      "testingInstructions": "No particular instructions",
+      "category": "KNOWLEDGE_AND_TRIVIA",
+      "distributionMode": "PUBLIC",
+      "automaticClonedLocale": {
+        "locales": [
+          {
+            "source": "fr-FR"
+          }
+        ]
+      },
+      "distributionCountries": [
+        "PF",
+        "FR",
+        "GF",
+        "TF",
+        "CA",
+        "RE",
+        "BJ",
+        "BF",
+        "CG",
+        "GA",
+        "GN",
+        "ML",
+        "MC",
+        "NG",
+        "SN",
+        "TG",
+        "BE"
+      ]
+    },
+    "apis": {
+      "custom": {
+        "endpoint": {
+          "uri": "arn:aws:lambda:eu-west-1:823702125672:function:a798eea5-e761-49c0-85bd-f4d98bdf33f4:Release_0"
+        },
+        "interfaces": [],
+        "regions": {
+          "EU": {
+            "endpoint": {
+              "uri": "arn:aws:lambda:eu-west-1:823702125672:function:a798eea5-e761-49c0-85bd-f4d98bdf33f4:Release_0"
+            }
+          },
+          "NA": {
+            "endpoint": {
+              "uri": "arn:aws:lambda:us-east-1:823702125672:function:a798eea5-e761-49c0-85bd-f4d98bdf33f4:Release_0"
+            }
+          },
+          "FE": {
+            "endpoint": {
+              "uri": "arn:aws:lambda:us-west-2:823702125672:function:a798eea5-e761-49c0-85bd-f4d98bdf33f4:Release_0"
+            }
+          }
+        }
+      }
+    },
+    "manifestVersion": "1.0",
+    "privacyAndCompliance": {
+      "allowsPurchases": false,
+      "locales": {
+        "fr-FR": {},
+        "fr-CA": {}
+      },
+      "containsAds": false,
+      "isExportCompliant": true,
+      "isChildDirected": false,
+      "shoppingKit": {
+        "isShoppingActionsEnabled": false,
+        "isAmazonAssociatesOnAlexaEnabled": false
+      },
+      "usesPersonalInfo": false
+    }
+  }
+}
