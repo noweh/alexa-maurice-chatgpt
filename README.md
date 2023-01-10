@@ -2,7 +2,7 @@
   <img width="250px" src="/img/image.png" />
 </p>
 
-# Alexa's skill Maurice Chatgpt
+# Alexa's skill Maurice ChatGPT
 
 ![Node.js](https://img.shields.io/static/v1?style=flat-square&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=)
 ![OpenAI ChatGPT](https://img.shields.io/static/v1?style=flat-square&message=OpenAI&nbsp;ChatGPT&color=412991&logo=OpenAI&logoColor=FFFFFF&label=)
